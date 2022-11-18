@@ -1,0 +1,17 @@
+C:\Users\echol\source\repos\StringConverter\StringConverter\bin\Debug\net6.0-windows\StringConverter.exe
+C:\Users\echol\source\repos\StringConverter\StringConverter\bin\Debug\net6.0-windows\StringConverter.deps.json
+C:\Users\echol\source\repos\StringConverter\StringConverter\bin\Debug\net6.0-windows\StringConverter.runtimeconfig.json
+C:\Users\echol\source\repos\StringConverter\StringConverter\bin\Debug\net6.0-windows\StringConverter.dll
+C:\Users\echol\source\repos\StringConverter\StringConverter\bin\Debug\net6.0-windows\StringConverter.pdb
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.vbproj.AssemblyReference.cache
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.Form1.resources
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.vbproj.GenerateResource.cache
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.AssemblyInfoInputs.cache
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.AssemblyInfo.vb
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.vbproj.CoreCompileInputs.cache
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.dll
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\refint\StringConverter.dll
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.pdb
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\StringConverter.genruntimeconfig.cache
+C:\Users\echol\source\repos\StringConverter\StringConverter\obj\Debug\net6.0-windows\ref\StringConverter.dll
